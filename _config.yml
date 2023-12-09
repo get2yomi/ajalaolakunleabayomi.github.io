@@ -1,13 +1,13 @@
 # site settings
 
-title: cvless
+title: Ajala Olakunle Abayomi
 description: Jekyll theme for a beautiful online CV
 taglong: Jekyll theme for a beautiful online CV
 tagshort: Jekyll theme
-url: https://cvless.netlify.app
+url: https://get2yomi.github.io/ajalaolakunleabayomi.github.io/
 baseurl: ""
 permalink: pretty
-repo: https://github.com/username/username.github.io
+repo: https://github.com/get2yomi/get2yomi.github.io
 
 # author settings
 
@@ -20,9 +20,9 @@ photo: /assets/jpg/photo.jpg
 
 social:
   facebook: username
-  github: username
+  github: https://get2yomi.github.io/ajalaolakunleabayomi.github.io/
   instagram: username
-  linkedin: username
+  linkedin: linkedin.com/in/ajalaolakunle
   stackoverflow: 0000000/username
   twitter: username
 
